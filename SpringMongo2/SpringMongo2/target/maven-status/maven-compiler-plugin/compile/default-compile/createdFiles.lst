@@ -1,0 +1,4 @@
+Repository\EmployeeRepository.class
+com\springMongo2\SpringMongo2\SpringMongo2Application.class
+Modal\Employee.class
+Controller\MyController.class
